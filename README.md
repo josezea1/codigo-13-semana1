@@ -37,4 +37,18 @@ get pull origin main
 ```
 sirve para poder descargar los cambios de nuestros repositorio de la nuve 
 
+```
+git branch
 
+- Sirve para poder listar los branch que tengo localmente y me dice en cual me encuentro actualmente
+
+
+git checkout -b nombre_del_branch
+
+- Sirve para crear un branch nuevo y poder trabajar en el
+
+
+git checkout nombre_del_branch
+
+- Sirve para poder moverme entre ramas
+- 👁️ Si el checkout no tiene el -b solo es para moverse
