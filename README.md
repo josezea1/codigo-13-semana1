@@ -12,6 +12,7 @@ git init
 ```
 git status
 
+```
 - Poder listar y ver si los archivos estan listo para subir
 -  en caso los archivos no esten listos se veran de color rojo y cuando lo esten seran de color verde
 
@@ -29,3 +30,11 @@ git commit -m "comentario"
 git push origin main
 
 - Sirve para poder subir los cambios a nuestro repositorio en la nube, en este caso github
+
+```
+get pull origin main
+
+```
+sirve para poder descargar los cambios de nuestros repositorio de la nuve 
+
+
